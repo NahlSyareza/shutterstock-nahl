@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "jetbrains";
+  src: url("./assets/fonts/ttf/JetBrainsMonoNL-Medium.ttf"),
+    url("./assets/fonts/ttf/JetBrainsMonoNL-MediumItalic.ttf"),
+    url("./assets/fonts/ttf/JetBrainsMonoNL-Bold.ttf"),
+    url("./assets/fonts/ttf/JetBrainsMonoNL-BoldItalic.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
