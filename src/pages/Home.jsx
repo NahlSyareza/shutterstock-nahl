@@ -1,5 +1,4 @@
 import React from "react";
-import WideLightning from "../assets/WideLightning.jpg";
 
 import { useNavigate } from "react-router-dom";
 
